@@ -1,0 +1,57 @@
+
+
+
+.main-div-of-the-header-section
+{
+    background-image: url(https://t4.ftcdn.net/jpg/02/59/23/75/360_F_259237527_vp9OOZ5TupbgHzujTE5UMRVDg5K7ICo4.jpg);
+    background-repeat: no-repeat;
+    height: 33.6rem;
+    background-size: cover;
+    /* filter: blur(5px); */
+}
+
+.always-in-motion
+{
+    font-size: 5rem;
+    justify-content: center;
+    display: flex;
+    padding-top: 7rem;
+    color: white;
+
+
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+   
+}
+
+
+.always-available-in-header-section
+{
+
+    font-size: 2rem;
+    justify-content: center;
+    display: flex;
+    padding-top: 1.5rem;
+    color: white;
+}
+
+.running-shoes-in-header-section
+{
+    font-size: 2rem;
+    justify-content: center;
+    display: flex;
+    color: white;
+}
+
+/* .div-of-ALWAYS-AVAILABLE-and-running-shoes-in-header-section
+{
+    line-height: 17px;
+} */
+
+.always-in-motion-and-running-shoes
+{
+    line-height: 17px;
+}
